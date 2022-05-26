@@ -4,9 +4,9 @@
 
 ### 사용된 언어
 
-Java 8
-jsp 
-javaScript
+1. Java 8
+2. jsp 
+3. javaScript
 
 
 
